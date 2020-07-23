@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOS6502_Console", "MOS6502_Console\MOS6502_Console.csproj", "{8CE85D58-2C17-44BD-BFB4-AE4B4C7529A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOS6502_BL", "MOS6502_BL\MOS6502_BL.csproj", "{89B9F2D0-CDC5-431D-9B66-C15BC89F69E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CE85D58-2C17-44BD-BFB4-AE4B4C7529A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE85D58-2C17-44BD-BFB4-AE4B4C7529A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE85D58-2C17-44BD-BFB4-AE4B4C7529A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE85D58-2C17-44BD-BFB4-AE4B4C7529A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B9F2D0-CDC5-431D-9B66-C15BC89F69E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B9F2D0-CDC5-431D-9B66-C15BC89F69E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B9F2D0-CDC5-431D-9B66-C15BC89F69E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B9F2D0-CDC5-431D-9B66-C15BC89F69E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60C15900-CF6D-4A1F-96A6-87E8CC1975AA}
+	EndGlobalSection
+EndGlobal
